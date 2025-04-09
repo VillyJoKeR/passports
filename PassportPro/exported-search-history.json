@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "from_country_code": "af",
+    "to_country_code": "ao",
+    "searched_at": "2025-04-08T23:17:46.850Z"
+  },
+  {
+    "id": 2,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:14.136Z"
+  },
+  {
+    "id": 3,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:17.764Z"
+  },
+  {
+    "id": 4,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:18.531Z"
+  },
+  {
+    "id": 5,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:18.712Z"
+  },
+  {
+    "id": 6,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:18.865Z"
+  },
+  {
+    "id": 7,
+    "from_country_code": "es",
+    "to_country_code": "ru",
+    "searched_at": "2025-04-08T23:22:19.289Z"
+  },
+  {
+    "id": 8,
+    "from_country_code": "es",
+    "to_country_code": "ao",
+    "searched_at": "2025-04-08T23:22:42.044Z"
+  },
+  {
+    "id": 9,
+    "from_country_code": "es",
+    "to_country_code": "ao",
+    "searched_at": "2025-04-08T23:22:43.326Z"
+  },
+  {
+    "id": 10,
+    "from_country_code": "us",
+    "to_country_code": "gb",
+    "searched_at": "2025-04-08T23:23:12.121Z"
+  },
+  {
+    "id": 11,
+    "from_country_code": "es",
+    "to_country_code": "gb",
+    "searched_at": "2025-04-09T00:21:02.038Z"
+  },
+  {
+    "id": 12,
+    "from_country_code": "es",
+    "to_country_code": "af",
+    "searched_at": "2025-04-09T00:21:36.132Z"
+  },
+  {
+    "id": 13,
+    "from_country_code": "es",
+    "to_country_code": "bg",
+    "searched_at": "2025-04-09T00:21:40.448Z"
+  },
+  {
+    "id": 14,
+    "from_country_code": "es",
+    "to_country_code": "dk",
+    "searched_at": "2025-04-09T00:21:44.649Z"
+  },
+  {
+    "id": 15,
+    "from_country_code": "es",
+    "to_country_code": "sv",
+    "searched_at": "2025-04-09T00:21:52.579Z"
+  },
+  {
+    "id": 16,
+    "from_country_code": "es",
+    "to_country_code": "sv",
+    "searched_at": "2025-04-09T00:26:45.125Z"
+  },
+  {
+    "id": 17,
+    "from_country_code": "es",
+    "to_country_code": "sv",
+    "searched_at": "2025-04-09T00:32:15.964Z"
+  }
+]
